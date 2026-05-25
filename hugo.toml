@@ -1,0 +1,65 @@
+baseURL = "https://example.org/"
+title = "Rohan Shrestha"
+theme = "hugo-PaperMod"
+paginate = 5
+enableEmoji = true
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[menu]
+  [[menu.main]]
+    name = "Projects"
+    url = "/projects/"
+    weight = 10
+  [[menu.main]]
+    name = "Blog"
+    url = "/posts/"
+    weight = 20
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 30
+  [[menu.main]]
+    name = "Search"
+    url = "/search/"
+    weight = 40
+
+[params]
+  env = "production"
+  title = "Rohan Shrestha"
+  description = "A passionate Full Stack Engineer dedicated to crafting beautiful, high-performance web applications and solving complex architectural challenges."
+  author = "Rohan Shrestha"
+  defaultTheme = "dark"
+  showThemeToggle = true
+  ShowReadingTime = true
+  ShowShareButtons = true
+  ShowCodeCopyButtons = true
+  ShowBreadCrumbs = true
+  ShowToc = true
+
+  [params.profileMode]
+    enabled = true
+    title = "Rohan Shrestha"
+    subtitle = "Full Stack Engineer"
+    description = "A passionate Full Stack Engineer dedicated to crafting beautiful, high-performance web applications and solving complex architectural challenges. I love exploring new technologies, solving scaling problems, and building clean, user-centric interfaces."
+    
+    # [[params.profileMode.buttons]]
+    #   name = "View Projects"
+    #   url = "/projects/"
+    # [[params.profileMode.buttons]]
+    #   name = "Read Blog"
+    #   url = "/posts/"
+    # [[params.profileMode.buttons]]
+    #   name = "About Me"
+    #   url = "/about/"
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/rhnshrestha"
+  [[params.socialIcons]]
+    name = "linkedin"
+    url = "https://www.linkedin.com/in/rohan-shrestha-270124311/"
+  [[params.socialIcons]]
+    name = "email"
+    url = "mailto:shrestharohan447@gmail.com"

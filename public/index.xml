@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Rohan Shrestha</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Rohan Shrestha</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 24 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;h1 id=&#34;hello-im-rohan-shrestha-&#34;&gt;Hello! I&amp;rsquo;m Rohan Shrestha 👋&lt;/h1&gt;
+&lt;p&gt;I am a &lt;strong&gt;Full Stack Engineer&lt;/strong&gt; with a passion for designing, developing, and deploying robust, scalable, and beautifully crafted web applications. I bridge the gap between complex backend architectures and high-performance, responsive frontends.&lt;/p&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;technical-skillset&#34;&gt;Technical Skillset&lt;/h3&gt;
+&lt;p&gt;Here is a look at the technologies, frameworks, and tools I work with:&lt;/p&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Domain&lt;/th&gt;
+          &lt;th style=&#34;text-align: left&#34;&gt;Technologies &amp;amp; Tools&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Frontend&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;React, Next.js, TailwindCSS&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Backend&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;Node.js, Express, RESTful APIs&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;&lt;strong&gt;Databases&lt;/strong&gt;&lt;/td&gt;
+          &lt;td style=&#34;text-align: left&#34;&gt;PostgreSQL, MongoDB, MySQL&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;hr&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;lets-build-something-together&#34;&gt;Let&amp;rsquo;s Build Something Together!&lt;/h3&gt;
+&lt;p&gt;I&amp;rsquo;m always open to discussing interesting projects, open-source collaborations, or engineering opportunities. Feel free to connect with me via &lt;a href=&#34;https://github.com/rhnshrestha&#34;&gt;GitHub&lt;/a&gt; or &lt;a href=&#34;https://www.linkedin.com/in/rohan-shrestha-270124311/&#34;&gt;LinkedIn&lt;/a&gt;!&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Why I Built My Developer Portfolio with Hugo and PaperMod</title>
+      <link>http://localhost:1313/posts/hugo-speed/</link>
+      <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/hugo-speed/</guid>
+      <description>&lt;p&gt;As a &lt;strong&gt;Full Stack Engineer&lt;/strong&gt;, my daily work frequently revolves around modern JavaScript frameworks like Next.js, Node.js, and massive containerized services. When it came to building my personal developer portfolio, however, I deliberately took a step back and chose &lt;strong&gt;Hugo&lt;/strong&gt; with the &lt;strong&gt;PaperMod&lt;/strong&gt; theme.&lt;/p&gt;
+&lt;p&gt;In this article, I want to explore why static site generators (SSGs) remain the gold standard for developer portfolios and how PaperMod combines robust features with lightweight efficiency.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Kabza - A Restaurant Table Booking System</title>
+      <link>http://localhost:1313/projects/kabza/</link>
+      <pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/kabza/</guid>
+      <description>A high-performance, distributed e-commerce application designed to support thousands of concurrent orders.</description>
+    </item>
+  </channel>
+</rss>

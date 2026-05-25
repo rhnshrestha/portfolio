@@ -1,6 +1,6 @@
 ---
 title: "Kabza - A Restaurant Table Booking System"
-description: "A high-performance, distributed e-commerce application designed to support thousands of concurrent orders."
+# description: "A high-performance, distributed e-commerce application designed to support thousands of concurrent orders."
 date: 2026-03-15
 draft: false
 # tags: ["Next.js", "Node.js", "Redis", "PostgreSQL", "TailwindCSS"]
@@ -16,10 +16,10 @@ ShowToc: true
 
 ### Core Highlights & Features
 
-*   **⚡ Server-Side Rendering & Incremental Static Regeneration:** Utilized Next.js for lightning-fast page loading and excellent SEO.
-*   **🛒 Distributed Cart System:** Leveraged Redis for real-time, low-latency shopping cart synchronization and caching.
-*   **💳 Stripe Integration:** Designed a secure, PCI-compliant checkout workflow handling dynamic tax calculation and webhooks.
-*   **📦 Resilient DB Architecture:** Implemented PostgreSQL database indexing, pooling, and custom write-ahead migrations.
+- Developed a full-stack restaurant table booking system using React.js, Node.js, Express, and MySQL.
+- Implemented booking management, admin dashboard, JWT-based authentication, and role-based access control.
+- Designed a smart event-based notification algorithm that analyzes booking history and sends personalized event alerts to users.
+- Integrated cron jobs and email services for automated notifications and background task execution.
 
 ---
 

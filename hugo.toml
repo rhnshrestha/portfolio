@@ -33,10 +33,11 @@ enableEmoji = true
   defaultTheme = "dark"
   showThemeToggle = true
   ShowReadingTime = true
-  ShowShareButtons = true
+  ShowShareButtons = false
   ShowCodeCopyButtons = true
   ShowBreadCrumbs = true
   ShowToc = true
+  ShowTags = false
 
   [params.assets]
     favicon = "favicon.png"

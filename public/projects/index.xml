@@ -13,7 +13,28 @@
       <link>http://localhost:1313/projects/kabza/</link>
       <pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/projects/kabza/</guid>
-      <description>A high-performance, distributed e-commerce application designed to support thousands of concurrent orders.</description>
+      <description>&lt;h1 id=&#34;kabza&#34;&gt;Kabza&lt;/h1&gt;
+&lt;p&gt;&lt;strong&gt;Kabza&lt;/strong&gt; is a web-based platform designed to simplify and automate the restaurant reservation process. The system allows customers to reserve tables and view booking status. An integrated event-based notification algorithm automatically sends alerts for important events such Valentine’s Day, New Year, Christmas and other occasions.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;core-highlights--features&#34;&gt;Core Highlights &amp;amp; Features&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;Developed a full-stack restaurant table booking system using React.js, Node.js, Express, and MySQL.&lt;/li&gt;
+&lt;li&gt;Implemented booking management, admin dashboard, JWT-based authentication, and role-based access control.&lt;/li&gt;
+&lt;li&gt;Designed a smart event-based notification algorithm that analyzes booking history and sends personalized event alerts to users.&lt;/li&gt;
+&lt;li&gt;Integrated cron jobs and email services for automated notifications and background task execution.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;technology-stack&#34;&gt;Technology Stack&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Frontend:&lt;/strong&gt; React.js, TailwindCSS&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Backend &amp;amp; APIs:&lt;/strong&gt; Node.js, Express, RESTful endpoints&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Database:&lt;/strong&gt; MySQL&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h3 id=&#34;links--code&#34;&gt;Links &amp;amp; Code&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;GitHub Repository:&lt;/strong&gt; &lt;a href=&#34;https://github.com/rhnshrestha&#34;&gt;https://github.com/rhnshrestha/Kabza&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
     </item>
   </channel>
 </rss>

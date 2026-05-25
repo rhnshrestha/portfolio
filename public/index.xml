@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Rohan Shrestha</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:1313/portfolio/</link>
     <description>Recent content on Rohan Shrestha</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 24 May 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About Me</title>
-      <link>http://localhost:1313/about/</link>
+      <link>http://localhost:1313/portfolio/about/</link>
       <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
+      <guid>http://localhost:1313/portfolio/about/</guid>
       <description>&lt;h1 id=&#34;hello-im-rohan-shrestha-&#34;&gt;Hello! I&amp;rsquo;m Rohan Shrestha 👋&lt;/h1&gt;
 &lt;p&gt;I am a &lt;strong&gt;Full Stack Engineer&lt;/strong&gt; with a passion for designing, developing, and deploying robust, scalable, and beautifully crafted web applications. I bridge the gap between complex backend architectures and high-performance, responsive frontends.&lt;/p&gt;
 &lt;hr&gt;
@@ -48,17 +48,17 @@
     </item>
     <item>
       <title>Why I Built My Developer Portfolio with Hugo and PaperMod</title>
-      <link>http://localhost:1313/posts/hugo-speed/</link>
+      <link>http://localhost:1313/portfolio/posts/hugo-speed/</link>
       <pubDate>Sun, 24 May 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/hugo-speed/</guid>
+      <guid>http://localhost:1313/portfolio/posts/hugo-speed/</guid>
       <description>&lt;p&gt;As a &lt;strong&gt;Full Stack Engineer&lt;/strong&gt;, my daily work frequently revolves around modern JavaScript frameworks like Next.js, Node.js, and massive containerized services. When it came to building my personal developer portfolio, however, I deliberately took a step back and chose &lt;strong&gt;Hugo&lt;/strong&gt; with the &lt;strong&gt;PaperMod&lt;/strong&gt; theme.&lt;/p&gt;
 &lt;p&gt;In this article, I want to explore why static site generators (SSGs) remain the gold standard for developer portfolios and how PaperMod combines robust features with lightweight efficiency.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Kabza - A Restaurant Table Booking System</title>
-      <link>http://localhost:1313/projects/kabza/</link>
+      <link>http://localhost:1313/portfolio/projects/kabza/</link>
       <pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/kabza/</guid>
+      <guid>http://localhost:1313/portfolio/projects/kabza/</guid>
       <description>&lt;h1 id=&#34;kabza&#34;&gt;Kabza&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Kabza&lt;/strong&gt; is a web-based platform designed to simplify and automate the restaurant reservation process. The system allows customers to reserve tables and view booking status. An integrated event-based notification algorithm automatically sends alerts for important events such Valentine’s Day, New Year, Christmas and other occasions.&lt;/p&gt;
 &lt;hr&gt;

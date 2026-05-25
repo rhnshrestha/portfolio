@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Projects on Rohan Shrestha</title>
-    <link>http://localhost:1313/projects/</link>
+    <link>http://localhost:1313/portfolio/projects/</link>
     <description>Recent content in Projects on Rohan Shrestha</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 15 Mar 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/projects/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/portfolio/projects/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kabza - A Restaurant Table Booking System</title>
-      <link>http://localhost:1313/projects/kabza/</link>
+      <link>http://localhost:1313/portfolio/projects/kabza/</link>
       <pubDate>Sun, 15 Mar 2026 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/projects/kabza/</guid>
+      <guid>http://localhost:1313/portfolio/projects/kabza/</guid>
       <description>&lt;h1 id=&#34;kabza&#34;&gt;Kabza&lt;/h1&gt;
 &lt;p&gt;&lt;strong&gt;Kabza&lt;/strong&gt; is a web-based platform designed to simplify and automate the restaurant reservation process. The system allows customers to reserve tables and view booking status. An integrated event-based notification algorithm automatically sends alerts for important events such Valentine’s Day, New Year, Christmas and other occasions.&lt;/p&gt;
 &lt;hr&gt;

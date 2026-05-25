@@ -34,5 +34,5 @@ ShowToc: true
 
 ### Links & Code
 
-- **GitHub Repository:** [https://github.com/rhnshrestha](https://github.com/rhnshrestha)
+- **GitHub Repository:** [https://github.com/rhnshrestha/Kabza](https://github.com/rhnshrestha)
 
